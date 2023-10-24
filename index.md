@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Welcome! I am a Pre-doctoral Research Fellow at the Research Department of the Inter-American Development Bank. My research interests lies mostly in Development, Labor and Public Economics, especially in questions related to informality, automation, migration, financial education and productivity. 
