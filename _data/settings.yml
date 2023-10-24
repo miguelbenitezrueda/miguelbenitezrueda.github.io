@@ -1,5 +1,5 @@
 menu:
-- {name: 'Home', url: '/home'}
+- {name: 'Home', url: 'https://miguelbenitezrueda.github.io/'}
 - {name: 'Research', url: '/publications'}
 - {name: 'CV', url: '/cv'}
 - {name: 'contact', url: '/contact'}
